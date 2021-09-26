@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "userId": "",
+      "id": 2,
+      "title": "",
+      "body": ""
+    },
+    {
+      "userId": "",
+      "id": 3,
+      "title": "",
+      "body": ""
+    },
+    {
+      "userId": 55,
+      "id": 546,
+      "title": "fdgdsgsf",
+      "body": "dhfgsf"
+    },
+    {
+      "userId": 22,
+      "id": 22,
+      "title": "thvvgj",
+      "body": "hkgfvghkv"
+    },
+    {
+      "userId": 7,
+      "id": 9,
+      "title": "kaka",
+      "body": "kaka"
+    },
+    {
+      "userId": 4365,
+      "id": 6435,
+      "title": "fgdgf",
+      "body": "sadffd"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
